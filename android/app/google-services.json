@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050456104948",
+    "project_id": "tuaibaptechproject",
+    "storage_bucket": "tuaibaptechproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050456104948:android:42e65ea032624b43dee3a1",
+        "android_client_info": {
+          "package_name": "com.example.tuaibkhan2ndproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkn4BWjo4iNyaOhi17BBx00WUWubRCUf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
